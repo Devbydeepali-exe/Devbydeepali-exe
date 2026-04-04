@@ -1,4 +1,3 @@
-![banner](https://github.com/Devbydeepali-exe/Devbydeepali-exe/raw/main/image-1.jpg)
 ## Hi there! (◔◡◔) <br>
 I'm **Deepali!**, a design engineer based in India 🇮🇳. <br>
 I'm Currently pursuing MCA + Masters in AI & ML. <br>
